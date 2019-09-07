@@ -1,0 +1,119 @@
+{
+    "meetings" : [
+        {
+            "meetingID"     : 1,
+            "time"          : "07:00 AM",
+            "employeeID"    : 2
+        },
+        {
+            "meetingID"     : 2,
+            "time"          : "08:00 AM",
+            "employeeID"    : 3
+        },
+        {
+            "meetingID"     : 3,
+            "time"          : "08:00 AM",
+            "employeeID"    : 5
+        },
+        {
+            "meetingID"     : 4,
+            "time"          : "08:00 AM",
+            "employeeID"    : 6
+        },
+        {
+            "meetingID"     : 5,
+            "time"          : "09:00 AM",
+            "employeeID"    : 2
+        },
+        {
+            "meetingID"     : 6,
+            "time"          : "09:00 AM",
+            "employeeID"    : 4
+        },
+        {
+            "meetingID"     : 7,
+            "time"          : "09:00 AM",
+            "employeeID"    : 5
+        },
+        {
+            "meetingID"     : 8,
+            "time"          : "09:30 AM",
+            "employeeID"    : 3
+        },
+        {
+            "meetingID"     : 9,
+            "time"          : "12:30 PM",
+            "employeeID"    : 3
+        },
+        {
+            "meetingID"     : 10,
+            "time"          : "12:30 PM",
+            "employeeID"    : 6
+        },
+        {
+            "meetingID"     : 11,
+            "time"          : "01:30 PM",
+            "employeeID"    : 1
+        },
+        {
+            "meetingID"     : 12,
+            "time"          : "01:30 PM",
+            "employeeID"    : 2
+        },
+        {
+            "meetingID"     : 13,
+            "time"          : "01:30 PM",
+            "employeeID"    : 4
+        },
+        {
+            "meetingID"     : 14,
+            "time"          : "01:30 PM",
+            "employeeID"    : 6
+        },
+        {
+            "meetingID"     : 15,
+            "time"          : "02:30 PM",
+            "employeeID"    : 1
+        },
+        {
+            "meetingID"     : 16,
+            "time"          : "03:00 PM",
+            "employeeID"    : 2
+        },
+        {
+            "meetingID"     : 17,
+            "time"          : "03:00 PM",
+            "employeeID"    : 3
+        },
+        {
+            "meetingID"     : 18,
+            "time"          : "03:00 PM",
+            "employeeID"    : 4
+        },
+        {
+            "meetingID"     : 19,
+            "time"          : "03:30 PM",
+            "employeeID"    : 2
+        },
+        {
+            "meetingID"     : 20,
+            "time"          : "03:30 PM",
+            "employeeID"    : 4
+        },
+        {
+            "meetingID"     : 21,
+            "time"          : "03:30 PM",
+            "employeeID"    : 6
+        },
+        {
+            "meetingID"     : 22,
+            "time"          : "06:00 PM",
+            "employeeID"    : 1
+        },
+        {
+            "meetingID"     : 23,
+            "time"          : "06:00 PM",
+            "employeeID"    : 5
+        }
+    ]
+}

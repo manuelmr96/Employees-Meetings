@@ -1,0 +1,28 @@
+{
+    "employees" : [
+        {
+            "employeeID"    : 1,
+            "name"          : "Kyle"
+        },
+        {
+            "employeeID"    : 2,
+            "name"          : "Paul"
+        },
+        {
+            "employeeID"    : 3,
+            "name"          : "Alex"
+        },
+        {
+            "employeeID"    : 4,
+            "name"          : "Luis"
+        },
+        {
+            "employeeID"    : 5,
+            "name"          : "Jairo"
+        },
+        {
+            "employeeID"    : 6,
+            "name"          : "Sonya"
+        }
+    ]
+}
